@@ -25,6 +25,14 @@ sass:
   sass_dir: assets/scss
   style: compressed
 
+navbar:
+  - title: "About"
+    url: "/about/"
+  - title: "Portfolio"
+    url: "/portfolio/"
+  - title: "Contact"
+    url: "/contact/"
+
 # Exclude from processing.
 exclude:
   - Gemfile

@@ -1,18 +1,15 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+author: Martin Jimenez
+image: assets/images/about/tamu.jpeg
+signature:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+#### Howdy, I'm Martin Jimenez
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+I am a software developer specializing in machine learning applications and web applications. I continually seek to learn new and emerging methods which I find extremely important to machine learning since it is so quickly changing. Some of my favorite applications include working with non-profits in the arts. I've created an optical character recognition model that automates data entry from physical survey cards into their database. I've also developed a machine learning model that was then used to create an optimal geofence in the target market to run an advertising campaign.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+##### Beyond The Professional
+
+Beyond my professional life, I am a violinist and I currently play in a quartet casually and a trio that is rehearsing an _Interstellar Medley_ which I had arranged the music for. I also play semi-regularly for the local community theater.
